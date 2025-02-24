@@ -22,7 +22,10 @@ int main()
 	for (int i = 1; i < 100; i++)
 	{
 		char ch;
-		scanf_s("%c", &ch);
+		scanf_s("%c", &ch, 10);
+
+	    while (getchar() != '\n');
+
 		int random = rand() % 100 + 1;
 		int lv;
 		float ap;
@@ -34,24 +37,31 @@ int main()
 
 		else if (ch != 'n')
 		{
-			if (random > 1)
+			if (random > 10)
 			{
 				lv = i + 1;
 				ap = wep * lv;
-				printf("강화에 성공하여 무기의 레벨이 %d가 되었습니다.\n", i + 1);
-				printf("무기 공격력: %.1f\n", ap);
+				printf("강화에 성공하여 무기의 레벨이 %d가 되었습니다.\n", lv);
+				if (lv != 99)
+					printf("무기 공격력: %.1f\n", ap);
+
+				else if (lv == 99)
+				{
+					printf("무기가 최고레벨입니다.\n");
+					ap = wep * lv * 10;
+					printf("무기 공격력: %.1f\n", ap);
+					break;
+				}
 
 			}
-			else if (random <= 1)
+			else if (random <= 10)
 			{
 				printf("강화에 실패하여 무기가 파괴되었습니다.");
 				break;
 			}
 		}
 
-
 	}
-
 
 	return 0;
 }
