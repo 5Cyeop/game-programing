@@ -1,5 +1,5 @@
-﻿  main.c
-C:\Users\Administrator\Desktop\game programing\class C aca\ch2\main.c(20,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Administrator\Desktop\game programing\class C aca\ch2\main.c(43,14): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Administrator\Desktop\game programing\class C aca\ch2\main.c(51,20): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  무기강화.c
+C:\Users\Administrator\Desktop\game programing\class C aca\ch2\무기강화.c(18,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\game programing\class C aca\ch2\무기강화.c(53,14): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\game programing\class C aca\ch2\무기강화.c(62,20): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   ch2.vcxproj -> C:\Users\Administrator\Desktop\game programing\class C aca\C_study\x64\Debug\ch2.exe
