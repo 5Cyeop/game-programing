@@ -1,0 +1,5 @@
+﻿  upgrade.c
+C:\Users\Administrator\Desktop\game programing\class C aca\ch6\upgrade.c(5,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\game programing\class C aca\ch6\upgrade.c(39,14): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\game programing\class C aca\ch6\upgrade.c(50,20): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ch6.vcxproj -> C:\Users\Administrator\Desktop\game programing\class C aca\C_study\x64\Debug\ch6.exe
