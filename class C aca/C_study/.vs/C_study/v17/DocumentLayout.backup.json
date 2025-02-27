@@ -1,17 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\game-programing\\class C aca\\C_study\\",
+  "WorkspaceRootPath": "C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\C_study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{586B1EE2-D7C8-4371-BD81-874430D4CB5B}|C_study.vcxproj|C:\\Users\\User\\Documents\\GitHub\\game-programing\\class C aca\\C_study\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{586B1EE2-D7C8-4371-BD81-874430D4CB5B}|C_study.vcxproj|solutionrelative:Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A744AA09-3EAA-418B-961D-A009384E82F4}|..\\ch7\\ch7.vcxproj|C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\upgrade.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{586B1EE2-D7C8-4371-BD81-874430D4CB5B}|C_study.vcxproj|C:\\Users\\User\\Documents\\GitHub\\game-programing\\class C aca\\C_study\\hello world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{586B1EE2-D7C8-4371-BD81-874430D4CB5B}|C_study.vcxproj|solutionrelative:hello world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A744AA09-3EAA-418B-961D-A009384E82F4}|..\\ch7\\ch7.vcxproj|C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\upgrade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B71D916-997D-4CB7-893E-6567E6798940}|..\\chapter1\\chapter1.vcxproj|C:\\Users\\User\\Documents\\GitHub\\game-programing\\class C aca\\chapter1\\variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A744AA09-3EAA-418B-961D-A009384E82F4}|..\\ch7\\ch7.vcxproj|C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,45 +19,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Variable.c",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\game-programing\\class C aca\\C_study\\Variable.c",
-              "RelativeDocumentMoniker": "Variable.c",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\game-programing\\class C aca\\C_study\\Variable.c",
-              "RelativeToolTip": "Variable.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-17T07:35:26.334Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "variable.c",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\game-programing\\class C aca\\chapter1\\variable.c",
-              "RelativeDocumentMoniker": "..\\chapter1\\variable.c",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\game-programing\\class C aca\\chapter1\\variable.c",
-              "RelativeToolTip": "..\\chapter1\\variable.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "upgrade.c",
+              "DocumentMoniker": "C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\upgrade.c",
+              "RelativeDocumentMoniker": "..\\ch7\\upgrade.c",
+              "ToolTip": "C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\upgrade.c",
+              "RelativeToolTip": "..\\ch7\\upgrade.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-17T07:28:15.826Z",
+              "WhenOpened": "2025-02-27T17:13:24.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "hello world.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\game-programing\\class C aca\\C_study\\hello world.cpp",
-              "RelativeDocumentMoniker": "hello world.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\game-programing\\class C aca\\C_study\\hello world.cpp",
-              "RelativeToolTip": "hello world.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-17T07:23:49.255Z",
+              "Title": "upgrade.h",
+              "DocumentMoniker": "C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\upgrade.h",
+              "RelativeDocumentMoniker": "..\\ch7\\upgrade.h",
+              "ToolTip": "C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\upgrade.h",
+              "RelativeToolTip": "..\\ch7\\upgrade.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-27T17:13:30.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\main.c",
+              "RelativeDocumentMoniker": "..\\ch7\\main.c",
+              "ToolTip": "C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\main.c",
+              "RelativeToolTip": "..\\ch7\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-27T17:13:28.304Z",
               "EditorCaption": ""
             }
           ]
