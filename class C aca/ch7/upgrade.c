@@ -67,17 +67,26 @@ void Evolution()
 
 	if (L_random < 20)
 	{
-		a += 1;
-		base *= (a + 1);
-		cur = base + wei * lv;
-		printf("무기진화에 성공하였습니다!!\n");
-		printf("무기 등급: %s, 무기 공격력: %d\n", grade[a], cur);
+		if (a < 5)
+		{
+			a += 1;
+			base *= (a + 1);
+			cur = base + wei * lv;
+			printf("무기진화에 성공하였습니다!!\n");
+			printf("등급: %s, 레벨: %d, 공격력: %d\n\n",grade[a], lv, cur);
+		}
+		
+		else if (a >= 5)
+		{
+			printf("무기가 최고등급입니다.\n\n");
+		}
 	}
 
 	else
 	{
+		cur = base + wei * lv;
 		printf("진화에 실패하였습니다.\n");
-		Upgrade_M();
+		printf("등급: %s, 레벨: %d, 공격력: %d\n\n",grade[a], lv, cur);
 	}
 }
 
@@ -94,13 +103,14 @@ void W_Upgrade()
 		cur = base + wei * lv;
 		upgrade_point += 50;
 		printf("강화에 성공하였습니다!!\n");
-		printf("레벨: %d, 공격력: %d\n\n", lv, cur);
+		printf("등급: %s, 레벨: %d, 공격력: %d\n\n",grade[a], lv, cur);
 	}
 
 	else if (random > 40)
 	{
+		cur = base + wei * lv;
 		printf("강화에 실패하였습니다.\n");
-		printf("레벨: %d, 공격력: %d\n\n", lv, cur);
+		printf("등급: %s, 레벨: %d, 공격력: %d\n\n",grade[a], lv, cur);
 		upgrade_point += 100;
 	}
 
