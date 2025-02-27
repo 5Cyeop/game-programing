@@ -1,15 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\C_study\\",
+  "WorkspaceRootPath": "C:\\game programming\\game-programing\\class C aca\\game-programing\\game-programing\\class C aca\\C_study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A744AA09-3EAA-418B-961D-A009384E82F4}|..\\ch7\\ch7.vcxproj|C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\upgrade.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\upgrade.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A744AA09-3EAA-418B-961D-A009384E82F4}|..\\ch7\\ch7.vcxproj|C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\upgrade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\upgrade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A744AA09-3EAA-418B-961D-A009384E82F4}|..\\ch7\\ch7.vcxproj|C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,10 +30,10 @@
               "DocumentIndex": 0,
               "Title": "upgrade.c",
               "DocumentMoniker": "C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\upgrade.c",
-              "RelativeDocumentMoniker": "..\\ch7\\upgrade.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\class C aca\\ch7\\upgrade.c",
               "ToolTip": "C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\upgrade.c",
-              "RelativeToolTip": "..\\ch7\\upgrade.c",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\class C aca\\ch7\\upgrade.c",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-27T17:13:24.564Z",
               "EditorCaption": ""
@@ -43,26 +43,24 @@
               "DocumentIndex": 1,
               "Title": "upgrade.h",
               "DocumentMoniker": "C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\upgrade.h",
-              "RelativeDocumentMoniker": "..\\ch7\\upgrade.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\class C aca\\ch7\\upgrade.h",
               "ToolTip": "C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\upgrade.h",
-              "RelativeToolTip": "..\\ch7\\upgrade.h",
+              "RelativeToolTip": "..\\..\\..\\class C aca\\ch7\\upgrade.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-27T17:13:30.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T17:13:30.019Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "main.c",
               "DocumentMoniker": "C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\main.c",
-              "RelativeDocumentMoniker": "..\\ch7\\main.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\class C aca\\ch7\\main.c",
               "ToolTip": "C:\\game programming\\game-programing\\class C aca\\game-programing\\class C aca\\ch7\\main.c",
-              "RelativeToolTip": "..\\ch7\\main.c",
+              "RelativeToolTip": "..\\..\\..\\class C aca\\ch7\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-27T17:13:28.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T17:13:28.304Z"
             }
           ]
         }
