@@ -13,10 +13,10 @@ int p = 0;
 
 
 
-void Weapon()
+/*void Weapon()
 {
 	
-}
+}*/
 
 
 void Upgrade_M()

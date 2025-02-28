@@ -4,7 +4,7 @@
 
 void Menu()
 {
-	printf("Select the contents [Battle (press B) / Weapon Upgrade (press U)] / Game over (press O) \n");
+	printf("Select the contents [Battle (press B) / Weapon Upgrade (press U) / Game over (press O)]\n");
 	char sel;
 
 	scanf_s(" %c", &sel);

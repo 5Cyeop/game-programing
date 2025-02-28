@@ -1,9 +1,11 @@
 #include "battle.h"
 #include "w_upgrade.h"
 #include "lobby.h"
+#define MON_MAX 4 //매크로 상수
 
-char *monster[4] = { "SLIME", "SKELETON", "DEMON", "DRAGON" };
-int m_power[4] = { 10, 100, 500, 2000 };
+
+char *monster[MON_MAX] = { "SLIME", "SKELETON", "DEMON", "DRAGON" };
+int m_power[MON_MAX] = { 10, 100, 500, 2000 };
 extern int cur;
 
 void M_Battle()
@@ -11,12 +13,12 @@ void M_Battle()
 	srand(time(NULL));
 	int random = rand() % 3 + 1;
 	
-	printf("%s 와 마주쳤습니다. 싸우시겠습니까? Y/N\n", monster[random]);
+	printf("%s 와 마주쳤습니다. 싸우시겠습니까? Y/N\n\n", monster[random]);
 	char a = _getch();
 
 	if (a == 'Y' || a == 'y')
 	{
-		Battle();
+		Battle(random);
 	}
 
 	else if (a == 'N' || a == 'n')
@@ -27,9 +29,8 @@ void M_Battle()
 }
 
 
-void Battle()
+void Battle(int random)
 {
-	extern int random;
 
 	if (cur > m_power[random])
 	{
@@ -53,3 +54,5 @@ void Battle()
 	}
 
 }
+
+//
