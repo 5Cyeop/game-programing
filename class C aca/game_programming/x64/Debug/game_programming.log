@@ -1,0 +1,2 @@
+﻿battle.obj : error LNK2001: 확인할 수 없는 외부 기호 random
+C:\game-programming\game-programing\class C aca\C_study\x64\Debug\game_programming.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

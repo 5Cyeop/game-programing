@@ -3,13 +3,25 @@
   "WorkspaceRootPath": "C:\\game-programming\\game-programing\\class C aca\\C_study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A744AA09-3EAA-418B-961D-A009384E82F4}|..\\ch7\\ch7.vcxproj|C:\\game-programming\\game-programing\\class C aca\\ch7\\upgrade.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC2E44EF-2D22-4C84-B9BD-6792AB913B70}|..\\game_programming\\game_programming.vcxproj|C:\\game-programming\\game-programing\\class C aca\\game_programming\\w_upgrade.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A744AA09-3EAA-418B-961D-A009384E82F4}|..\\ch7\\ch7.vcxproj|C:\\game-programming\\game-programing\\class C aca\\ch7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC2E44EF-2D22-4C84-B9BD-6792AB913B70}|..\\game_programming\\game_programming.vcxproj|C:\\game-programming\\game-programing\\class C aca\\game_programming\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A744AA09-3EAA-418B-961D-A009384E82F4}|..\\ch7\\ch7.vcxproj|C:\\game-programming\\game-programing\\class C aca\\ch7\\upgrade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC2E44EF-2D22-4C84-B9BD-6792AB913B70}|..\\game_programming\\game_programming.vcxproj|C:\\game-programming\\game-programing\\class C aca\\game_programming\\battle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2E44EF-2D22-4C84-B9BD-6792AB913B70}|..\\game_programming\\game_programming.vcxproj|C:\\game-programming\\game-programing\\class C aca\\game_programming\\lobby.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2E44EF-2D22-4C84-B9BD-6792AB913B70}|..\\game_programming\\game_programming.vcxproj|C:\\game-programming\\game-programing\\class C aca\\game_programming\\battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2E44EF-2D22-4C84-B9BD-6792AB913B70}|..\\game_programming\\game_programming.vcxproj|C:\\game-programming\\game-programing\\class C aca\\game_programming\\w_upgrade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2E44EF-2D22-4C84-B9BD-6792AB913B70}|..\\game_programming\\game_programming.vcxproj|C:\\game-programming\\game-programing\\class C aca\\game_programming\\lobby.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,7 +31,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,42 +39,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\game-programming\\game-programing\\class C aca\\ch7\\main.c",
-              "RelativeDocumentMoniker": "..\\ch7\\main.c",
-              "ToolTip": "C:\\game-programming\\game-programing\\class C aca\\ch7\\main.c",
-              "RelativeToolTip": "..\\ch7\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "lobby.c",
+              "DocumentMoniker": "C:\\game-programming\\game-programing\\class C aca\\game_programming\\lobby.c",
+              "RelativeDocumentMoniker": "..\\game_programming\\lobby.c",
+              "ToolTip": "C:\\game-programming\\game-programing\\class C aca\\game_programming\\lobby.c",
+              "RelativeToolTip": "..\\game_programming\\lobby.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-27T18:36:06.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T09:01:40.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lobby.h",
+              "DocumentMoniker": "C:\\game-programming\\game-programing\\class C aca\\game_programming\\lobby.h",
+              "RelativeDocumentMoniker": "..\\game_programming\\lobby.h",
+              "ToolTip": "C:\\game-programming\\game-programing\\class C aca\\game_programming\\lobby.h",
+              "RelativeToolTip": "..\\game_programming\\lobby.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T09:01:31.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "w_upgrade.h",
+              "DocumentMoniker": "C:\\game-programming\\game-programing\\class C aca\\game_programming\\w_upgrade.h",
+              "RelativeDocumentMoniker": "..\\game_programming\\w_upgrade.h",
+              "ToolTip": "C:\\game-programming\\game-programing\\class C aca\\game_programming\\w_upgrade.h",
+              "RelativeToolTip": "..\\game_programming\\w_upgrade.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T08:20:59.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "battle.h",
+              "DocumentMoniker": "C:\\game-programming\\game-programing\\class C aca\\game_programming\\battle.h",
+              "RelativeDocumentMoniker": "..\\game_programming\\battle.h",
+              "ToolTip": "C:\\game-programming\\game-programing\\class C aca\\game_programming\\battle.h",
+              "RelativeToolTip": "..\\game_programming\\battle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T08:20:59.094Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "upgrade.c",
-              "DocumentMoniker": "C:\\game-programming\\game-programing\\class C aca\\ch7\\upgrade.c",
-              "RelativeDocumentMoniker": "..\\ch7\\upgrade.c",
-              "ToolTip": "C:\\game-programming\\game-programing\\class C aca\\ch7\\upgrade.c",
-              "RelativeToolTip": "..\\ch7\\upgrade.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Title": "w_upgrade.c",
+              "DocumentMoniker": "C:\\game-programming\\game-programing\\class C aca\\game_programming\\w_upgrade.c",
+              "RelativeDocumentMoniker": "..\\game_programming\\w_upgrade.c",
+              "ToolTip": "C:\\game-programming\\game-programing\\class C aca\\game_programming\\w_upgrade.c",
+              "RelativeToolTip": "..\\game_programming\\w_upgrade.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-27T18:34:55.555Z",
+              "WhenOpened": "2025-02-28T08:20:58.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\game-programming\\game-programing\\class C aca\\game_programming\\main.c",
+              "RelativeDocumentMoniker": "..\\game_programming\\main.c",
+              "ToolTip": "C:\\game-programming\\game-programing\\class C aca\\game_programming\\main.c",
+              "RelativeToolTip": "..\\game_programming\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-28T08:20:57.883Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "upgrade.h",
-              "DocumentMoniker": "C:\\game-programming\\game-programing\\class C aca\\ch7\\upgrade.h",
-              "RelativeDocumentMoniker": "..\\ch7\\upgrade.h",
-              "ToolTip": "C:\\game-programming\\game-programing\\class C aca\\ch7\\upgrade.h",
-              "RelativeToolTip": "..\\ch7\\upgrade.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-27T18:34:54.16Z",
-              "EditorCaption": ""
+              "Title": "battle.c",
+              "DocumentMoniker": "C:\\game-programming\\game-programing\\class C aca\\game_programming\\battle.c",
+              "RelativeDocumentMoniker": "..\\game_programming\\battle.c",
+              "ToolTip": "C:\\game-programming\\game-programing\\class C aca\\game_programming\\battle.c",
+              "RelativeToolTip": "..\\game_programming\\battle.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-28T08:20:57.29Z"
             }
           ]
         }
