@@ -130,11 +130,13 @@
     <ClCompile Include="battle.c" />
     <ClCompile Include="lobby.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="status.c" />
     <ClCompile Include="w_upgrade.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="battle.h" />
     <ClInclude Include="lobby.h" />
+    <ClInclude Include="status.h" />
     <ClInclude Include="w_upgrade.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

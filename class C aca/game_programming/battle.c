@@ -1,17 +1,23 @@
 #include "battle.h"
 #include "w_upgrade.h"
 #include "lobby.h"
+#include "status.h"
+
 #define MON_MAX 4 //매크로 상수
 
 
 char *monster[MON_MAX] = { "SLIME", "SKELETON", "DEMON", "DRAGON" };
 int m_power[MON_MAX] = { 10, 100, 500, 2000 };
 extern int cur;
+extern int upgrade_point;
+extern int evolve_point;
 
 void M_Battle()
 {
 	srand(time(NULL));
 	int random = rand() % 3 + 1;
+	if (cur < 100)
+		random = 0;
 	
 	printf("%s 와 마주쳤습니다. 싸우시겠습니까? Y/N\n\n", monster[random]);
 	char a = _getch();
@@ -34,7 +40,10 @@ void Battle(int random)
 
 	if (cur > m_power[random])
 	{
-		printf("%s 를 무찔렀습니다!\n", monster[random]);
+		printf("%s가 쓰러졌습니다.\n", monster[random]);
+		printf("강화석 %d개, 진화석 %d개 획득하였습니다.\n", (random + 1) * 1000, (random + 1) * 500);
+		upgrade_point += (random + 1) * 1000;
+		evolve_point += (random + 1) * 500;
 	}
 
 	else if (cur < m_power[random])
@@ -54,5 +63,3 @@ void Battle(int random)
 	}
 
 }
-
-//

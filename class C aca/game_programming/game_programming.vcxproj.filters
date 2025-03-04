@@ -27,6 +27,9 @@
     <ClCompile Include="lobby.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="status.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="w_upgrade.h">
@@ -36,6 +39,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="lobby.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="status.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

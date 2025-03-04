@@ -4,10 +4,8 @@
 
 void Menu()
 {
-	printf("Select the contents [Battle (press B) / Weapon Upgrade (press U) / Game over (press O)]\n");
-	char sel;
-
-	scanf_s(" %c", &sel);
+	printf("Select the contents [Battle (press B) / Weapon Upgrade (press U) / Game over (press O)]\n\n");
+	char sel = _getch();
 
 	if (sel == 'B' || sel == 'b')
 	{
@@ -22,6 +20,12 @@ void Menu()
 	else if (sel == 'O' || sel == 'o')
 	{
 		exit(0);
+	}
+
+	else
+	{
+		printf("Press one of button (B / U / O)\n\n");
+		Menu();
 	}
 	
 }
